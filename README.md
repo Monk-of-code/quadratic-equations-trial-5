@@ -12,7 +12,7 @@ int main()
     scanf("%1f",&c);
     root_1 = (-b+sqrt(b*b - 4*a*c))/(2*a);
     root_2 = (-b- sqrt(b*b - 4*a*c))/(2*a);
-    printf("\n the first root  = %.2f\n",root_1);
-    printf("\n the second root = %.2f \n",root_2);
+    printf("\n the first root  = %1f\n",root_1);
+    printf("\n the second root = %1f \n",root_2);
     return 0;
 }
