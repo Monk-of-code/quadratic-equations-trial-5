@@ -1,5 +1,6 @@
 # quadratic-equations-trial-5
 #include <stdio.h>
+#include<math.h>
 int main()
 
 {
